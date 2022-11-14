@@ -1,1 +1,2 @@
-The lucid chart network design shows a small representation of how a network works. it starts with a server, using the clods, IP addresses, hub, and host. a network starts with a computer that has software that allows users to access the server over clouds.
+# The purpuse of module 14 task 2 is to put the price of the products in descending order as shown on the screenshot.
+# The purpuse of module 14 task 3 is to put the price of the products above $25 in ascending order.
