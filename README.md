@@ -1,1 +1,1 @@
-Changed line one to my name and added to the second line.
+For my topic, I wanted to use Global warming and for my page, I have included a link to the. HTML file for the website and I have also tagged the section of the website that talks about what global warming is and what kind of effects it has on our blue planet. The film talks about the effect of human behavior and the influence of pollution on the planet.
